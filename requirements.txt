@@ -1,7 +1,0 @@
-Flask
-Flask-Login
-scikit-learn
-pandas
-fpdf
-pytesseract
-Pillow
