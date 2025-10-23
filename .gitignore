@@ -1,4 +1,9 @@
+
 venv/
+__pycache__/
 *.pyc
 .env
 .DS_Store
+# other content from remote
+3625c1c1e8bbca2e0d6eaa674d34da97e2984a2b
+
